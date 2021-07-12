@@ -12,9 +12,10 @@ The workshop on July 28 will be a hands-on tutorial session. We will use Google 
 
 To begin: 
   
+* We will start with, W01_EDA_Assays.ipynb, and move on to W02_EDA_Compounds.ipynb and end with W03_EDA_Merge.ipynb notebooks. 
 * Click, the following "Open in COLAB" badge,[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ravichas/AMPL-workshop-1/blob/main/EDA_With_Harmonization_Using_AMPL.ipynb), to open the Google COLAB notebook
 
-* If you have trouble with the previous step, click **EDA_With_Harmonization_Using_AMPL.ipynb** link shown above to open a browser tab and then click on the "Open in COLAB" batge to view the live notebook. To save the notebook in your Google Drive -make sure you are logged in with your Google account-, you need click on "Copy to Drive".  
+* If you have trouble with the previous step, click **EDA_With_Harmonization_Using_AMPL.ipynb** link shown above to open a browser tab and then click on the "Open in COLAB" badge to view the live notebook. To save the notebook in your Google Drive -make sure you are logged in with your Google account-, you need click on "Copy to Drive".  
 
 ## Supporting links
 
