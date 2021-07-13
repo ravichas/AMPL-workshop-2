@@ -12,7 +12,7 @@ The workshop on July 28 will be a hands-on tutorial session. We will use Google 
 
 To begin: 
   
-* We will start with, [W01_EDA_Assays.ipynb](https://github.com/ravichas/AMPL-workshop-2/blob/main/W01_EDA_Assays.ipynb), and move on to [W02_EDA_compounds.ipynb](https://github.com/ravichas/AMPL-workshop-2/blob/main/W02_EDA_compounds.ipynb) and end with [W03_EDA_merge.ipynb](https://github.com/ravichas/AMPL-workshop-2/blob/main/W03_EDA_merge.ipynb) notebooks. Please note that when you click on the notebook links, you will see a "Open in COLAB" badge,[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)], click on the image to open the Google COLAB notebook
+* We will start with, [W01_EDA_Assays.ipynb](https://github.com/ravichas/AMPL-workshop-2/blob/main/W01_EDA_Assays.ipynb), and move on to [W02_EDA_compounds.ipynb](https://github.com/ravichas/AMPL-workshop-2/blob/main/W02_EDA_compounds.ipynb) and end with [W03_EDA_merge.ipynb](https://github.com/ravichas/AMPL-workshop-2/blob/main/W03_EDA_merge.ipynb) notebooks. Please note that when you click on the notebook links, you will see a "Open in COLAB" badge,![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg), click on the image to open the Google COLAB notebook
 
 * If you have trouble with the previous step, click **EDA_With_Harmonization_Using_AMPL.ipynb** link shown above to open a browser tab and then click on the "Open in COLAB" badge to view the live notebook. To save the notebook in your Google Drive -make sure you are logged in with your Google account-, you need click on "Copy to Drive".  
 
