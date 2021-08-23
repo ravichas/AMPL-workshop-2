@@ -12,7 +12,7 @@ The workshop on Aug xx will be a hands-on tutorial session. We will use Google C
 
 To begin: 
   
-* We will start with, [AMPL_FNL_Wrshp2_1.ipynb](https://nbviewer.jupyter.org/github/ravichas/AMPL-workshop-2/blob/main/AMPL_FNL_Wrshp2_1.ipynb), and move on to [AMPL_FNL_Wrshp2_2.ipynb](https://nbviewer.jupyter.org/github/ravichas/AMPL-workshop-2/blob/main/AMPL_FNL_Wrshp2_2.ipynb) and end with [AMPL_FNL_Wrshp2_3.ipynb](https://nbviewer.jupyter.org/github/ravichas/AMPL-workshop-2/blob/main/AMPL_FNL_Wrshp2_1.ipynb) notebooks. Please note that when you click on the notebook links, you will see a "Open in COLAB" badge,![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg), click on the image to open the notebook in Google COLAB. To save the notebook in your Google Drive -make sure you are logged in with your Google account-, then you click on "Copy to Drive".  
+* We will start with, [AMPL_FNL_Wrshp2_1.ipynb](https://nbviewer.jupyter.org/github/ravichas/AMPL-workshop-2/blob/main/AMPL_FNL_Wrshp2_1.ipynb), and move on to [AMPL_FNL_Wrshp2_2.ipynb](https://nbviewer.jupyter.org/github/ravichas/AMPL-workshop-2/blob/main/AMPL_FNL_Wrshp2_2.ipynb) and end with [AMPL_FNL_Wrshp2_3.ipynb](https://nbviewer.jupyter.org/github/ravichas/AMPL-workshop-2/blob/main/AMPL_FNL_Wrshp2_3.ipynb) notebooks. Please note that when you click on the notebook links, you will see a "Open in COLAB" badge,![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg), click on the image to open the notebook in Google COLAB. To save the notebook in your Google Drive -make sure you are logged in with your Google account-, then you click on "Copy to Drive".  
 
 ## Supporting links
 
