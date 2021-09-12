@@ -14,7 +14,7 @@
 In this workshop, we will demonstrate how to use Atom Modeling PipeLine (AMPL; https://github.com/ATOMconsortium/AMPL), a new, open-source conda-based software that automates key drug discovery steps. AMPL is designed to take molecular binding data (ex., IC50, ki, etc.) and carry out the Machine-Learning (ML) steps with minimal intervention. In this workshop, we will cover the topics listed in the figure shown above. Future workshops will cover the next steps (modeling, inference) in drug discovery.
 The workshop on Sep 14 (2021) will be a hands-on tutorial session. We will use Google COLAB for this session. 
 
-To begin: 
+Here is the agenda for today: 
   
 * We will start with, [AMPL_FNL_Wrshp2_1.ipynb](https://nbviewer.jupyter.org/github/ravichas/AMPL-workshop-2/blob/main/AMPL_FNL_Wrshp2_1.ipynb), and move on to [AMPL_FNL_Wrshp2_2.ipynb](https://nbviewer.jupyter.org/github/ravichas/AMPL-workshop-2/blob/main/AMPL_FNL_Wrshp2_2.ipynb) and end with [AMPL_FNL_Wrshp2_3.ipynb](https://nbviewer.jupyter.org/github/ravichas/AMPL-workshop-2/blob/main/AMPL_FNL_Wrshp2_3.ipynb) notebooks. Please note that when you click on the notebook links, you will see a "Open in COLAB" badge,![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg), click on the image to open the notebook in Google COLAB. To save the notebook in your Google Drive -make sure you are logged in with your Google account-, then you click on "Copy to Drive".  
 
