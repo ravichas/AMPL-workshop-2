@@ -29,7 +29,11 @@ To begin:
 ### AMPL Tutorials:
 * https://github.com/ATOMconsortium/AMPL/tree/master/atomsci/ddm/examples/tutorials
 * https://github.com/ravichas/AMPL-Tutorial
-* https://hpc.nih.gov/apps/ampl.html
+
+### How to use AMPL: 
+* Download install on your local computers (conda-based Python software)
+* Use Google COLAB; check out the following link on how to get-started, https://github.com/ATOMconsortium/AMPL/tree/master/atomsci/ddm/examples/tutorials  
+* Use on NIH Biowulf HPC systems, https://hpc.nih.gov/apps/ampl.html (**NIH ID users only**)
 
 ### Similar chemoinformatics, drug-discovery software tools:
 * DeepChem, https://deepchem.io/
