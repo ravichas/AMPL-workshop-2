@@ -20,6 +20,9 @@ Here is the agenda for today:
 
 ## Supporting links
 
+### AMPL-workshop-1 link: 
+* https://github.com/ravichas/AMPL-workshop-1
+
 ### ATOM/AMPL software GitHub link:
 * https://github.com/ATOMconsortium/AMPL
 
